@@ -1,2 +1,5 @@
 Hello, world!
 Hello, everybody!
+
+Hello, man!
+Hello, woman!
