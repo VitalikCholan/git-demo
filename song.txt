@@ -3,3 +3,7 @@ Hello, everybody!
 
 Hello, man!
 Hello, woman!
+
+Hello, boys!
+Hello, girls!
+
